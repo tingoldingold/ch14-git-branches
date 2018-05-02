@@ -1,4 +1,5 @@
 # Exercise 1
+**Tristan ingold**
 In this exercise, you'll practice working with branches, including **merging** changes between them.
 
 To complete the exercise, follow the below steps:
