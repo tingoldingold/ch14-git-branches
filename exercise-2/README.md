@@ -3,6 +3,7 @@ In this exercise, you'll practice resolving a merge conflict.
 
 > Hello
 
+
 To complete the exercise, follow the below steps:
 
 1. You should have cloned _this_ exercise repository. Make sure you are on the `master` branch, and that all changes are committed.
